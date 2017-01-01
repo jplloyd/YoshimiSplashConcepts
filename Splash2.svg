@@ -17,7 +17,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="Splash2.svg"
-   inkscape:export-filename="./renders/Splash2-4.png"
+   inkscape:export-filename="./renders/Splash2-2.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -1249,9 +1249,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="171.00329"
-     inkscape:cy="248.22047"
+     inkscape:zoom="1"
+     inkscape:cx="276.00864"
+     inkscape:cy="194.48036"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="false"
@@ -1276,7 +1276,7 @@
            rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
       </cc:Work>
       <cc:License
-         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+         rdf:about="http://creativecommons.org/licenses/by/3.0/">
         <cc:permits
            rdf:resource="http://creativecommons.org/ns#Reproduction" />
         <cc:permits
