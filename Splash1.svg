@@ -17,7 +17,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="Splash1.svg"
-   inkscape:export-filename="./renders/Splash1-2png.png"
+   inkscape:export-filename="./renders/Splash1-1.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -1328,7 +1328,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="269.37751"
+     inkscape:cx="186.62751"
      inkscape:cy="151.36786"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -1571,7 +1571,7 @@
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="SquareHead"
-     style="display:none">
+     style="display:inline">
     <g
        style="display:inline"
        transform="matrix(1.331593,0,0,1.331593,-1219.0727,-1592.4599)"
@@ -1714,7 +1714,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="OrigHead"
-     style="display:inline">
+     style="display:none">
     <g
        style="display:inline"
        transform="matrix(2.0871588,0,0,2.0871588,356.96553,-2066.2261)"
