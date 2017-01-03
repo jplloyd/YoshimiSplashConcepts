@@ -1327,11 +1327,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="186.62751"
-     inkscape:cy="151.36786"
+     inkscape:zoom="1"
+     inkscape:cx="148.21429"
+     inkscape:cy="150.06764"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer4"
      showgrid="false"
      units="px"
      inkscape:snap-global="false"
@@ -1571,7 +1571,7 @@
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="SquareHead"
-     style="display:inline">
+     style="display:none">
     <g
        style="display:inline"
        transform="matrix(1.331593,0,0,1.331593,-1219.0727,-1592.4599)"
@@ -1714,7 +1714,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="OrigHead"
-     style="display:none">
+     style="display:inline">
     <g
        style="display:inline"
        transform="matrix(2.0871588,0,0,2.0871588,356.96553,-2066.2261)"
@@ -1752,7 +1752,7 @@
            d="m 498.35922,541.09619 c 0,0.94451 -0.7657,1.71021 -1.71022,1.71021 -0.94452,0 -1.71022,-0.7657 -1.71022,-1.71021 0,-0.94453 0.7657,-1.71022 1.71022,-1.71022 0.94452,0 1.71022,0.76569 1.71022,1.71022 z"
            id="path3771-6"
            inkscape:connector-curvature="0"
-           transform="translate(-2.156041,0)" />
+           transform="translate(-3.0030139,0)" />
         <path
            style="fill:#fd8667;fill-opacity:1;fill-rule:evenodd;stroke:#42202f;stroke-width:1.20000005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="m 519.74752,541.04732 c 0,3.3186 -2.76297,6.00886 -6.17126,6.00886 -3.40829,0 -6.17126,-2.69026 -6.17126,-6.00886 0,-3.3186 2.76297,-6.00886 6.17126,-6.00886 3.40829,0 6.17126,2.69026 6.17126,6.00886 z"
@@ -1763,7 +1763,7 @@
            d="m 515.26222,541.03419 c 0,0.94451 -0.7657,1.71021 -1.71022,1.71021 -0.94452,0 -1.71022,-0.7657 -1.71022,-1.71021 0,-0.94453 0.7657,-1.71022 1.71022,-1.71022 0.94452,0 1.71022,0.76569 1.71022,1.71022 z"
            id="path3771-4-9"
            inkscape:connector-curvature="0"
-           transform="translate(-2.156041,0)" />
+           transform="translate(-3.0030139,0)" />
       </g>
       <g
          transform="translate(-180.88685,482.41819)"

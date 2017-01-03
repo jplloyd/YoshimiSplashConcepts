@@ -17,7 +17,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="Splash3.svg"
-   inkscape:export-filename="./renders/Splash3-3.png"
+   inkscape:export-filename="./renders/Splash3-4.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
    enable-background="new">
@@ -657,10 +657,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="186.45135"
-     inkscape:cy="210.75244"
+     inkscape:cx="214.22217"
+     inkscape:cy="210.91351"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer7"
      showgrid="false"
      units="px"
      inkscape:snap-global="false"
@@ -738,7 +738,7 @@
      inkscape:label="FilterTextureEffect"
      style="display:inline;filter:url(#filter5520)">
     <rect
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.6;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#radialGradient5222);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.22551095;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;filter:url(#filter7902-3);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.3;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#radialGradient5222);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.22551095;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;filter:url(#filter7902-3);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect6444"
        width="514"
        height="350.85538"
@@ -896,7 +896,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="SquareHead"
-     style="display:none">
+     style="display:inline">
     <g
        style="display:inline"
        transform="matrix(1.3459109,0,0,1.3459109,-1400.2577,-1497.6629)"
@@ -1039,7 +1039,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="OrigSquareHead"
-     style="display:inline">
+     style="display:none">
     <g
        style="display:inline"
        transform="matrix(2.0384994,0,0,2.0384994,193.75954,-1901.9138)"
